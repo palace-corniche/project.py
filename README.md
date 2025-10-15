@@ -1,1 +1,3 @@
-# project.py
+streamlit
+speechrecognition
+nltk
